@@ -31,15 +31,15 @@ public class Main {
                     menu.calculadoraBasica();
                     break;
                 case 2:
-                    menu.Catedraticos();
+                    menu.();
                     break;
-                case 5:
+                case 3:
                     menu.listaDeEstudiantes();
                     break;
-                case 6:
+                case 4:
                     menu.gestionDeEstudiantes();
                     break;
-                case 7:
+                case 5:
                     salir = true;
                     System.out.println("Saliendo del programa...");
                     break;
